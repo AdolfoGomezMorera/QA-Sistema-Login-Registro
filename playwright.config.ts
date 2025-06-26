@@ -6,7 +6,7 @@ const config: PlaywrightTestConfig = {
   testMatch: '**/*.test.ts', // Coincide con todos los archivos de prueba
   testDir: './src/tests',    // Directorio donde están las pruebas
   timeout: 180000,           // Tiempo máximo por prueba (ms)
-  retries: 2,                // Número de reintentos por prueba fallida
+  retries: 0,                // Número de reintentos por prueba fallida
   workers: 1,                // Número de procesos paralelos
   reporter: [
     ['list'], // Reporte en consola
