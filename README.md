@@ -71,6 +71,6 @@ Este repositorio contiene el diseño e implementación de pruebas automatizadas 
 
 1. Ve a la pestaña **"Actions"** en tu repositorio.
 2. Selecciona el workflow llamado `Playwright Tests`.
-3. Haz clic en **"Run workflow"** (si tienes `workflow_dispatch` habilitado).
+3. Haz clic en **"Run workflow"**
 
 ---
