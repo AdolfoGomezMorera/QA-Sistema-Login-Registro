@@ -4,6 +4,7 @@ npm-debug.log
 yarn-error.log
 
 # Playwright
+tests-examples/
 tests-results/
 tests/
 playwright-report/
@@ -41,3 +42,6 @@ Thumbs.db
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# Playwright
+/test-results/
