@@ -15,7 +15,7 @@ const config: PlaywrightTestConfig = {
   ],
   use: {
     baseURL: 'https://globalsqa.com/angularJs-protractor/registration-login-example/#', // URL base para las pruebas
-    headless: true, // Ejecuta en modo headless (sin UI)
+    headless: true, // Ejecuta en modo headless
     actionTimeout: 45000, // Timeout para acciones individuales
     navigationTimeout: 60000, // Timeout específico para navegación
     viewport: { width: 1280, height: 720 }, // Resolución de la ventana del navegador
