@@ -5,7 +5,7 @@
   - [Funcionalidades a probar](#funcionalidades-a-probar)
   - [Tipos de prueba](#tipos-de-prueba)
 - [2. Estrategia](#2-estrategia)
-- [3. Riesgos Principales (Actualizado)](#3-riesgos-principales-actualizado)
+- [3. Riesgos Principales](#3-riesgos-principales)
 - [4. Recursos](#4-recursos)
 - [5. Cronograma](#5-cronograma)
 
@@ -40,7 +40,7 @@
 | Tipo          | Enfoque                          | Herramientas               | Cobertura                           |
 |---------------|----------------------------------|----------------------------|-------------------------------------|
 | Manual        | Casos de uso principales         | Checklist exploratorio     | 100% de casos básicos              |
-| Automatizado  | Flujos críticos y repetitivos    | Playwright (TS)    | Registro, login, borrado           |
+| Automatizado  | Flujos críticos y repetitivos    | Playwright                 | Registro, login, borrado           |
 | Seguridad     | Validaciones básicas             | Pruebas manuales           | XSS, SQLi, gestión de sesiones     |
 | Usabilidad    | Feedback al usuario              | Observación directa        | Mensajes de error, validaciones    |
 
