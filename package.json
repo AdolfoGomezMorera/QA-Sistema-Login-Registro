@@ -1,0 +1,25 @@
+{
+  "name": "qa-sistema-login-registro",
+  "version": "1.0.0",
+  "description": "Automatización de pruebas, enfocado a sistema de login y registro de usuarios",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdolfoGomezMorera/QA-Sistema-Login-Registro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdolfoGomezMorera/QA-Sistema-Login-Registro/issues"
+  },
+  "homepage": "https://github.com/AdolfoGomezMorera/QA-Sistema-Login-Registro#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.4"
+  }
+}
