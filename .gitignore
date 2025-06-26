@@ -4,7 +4,8 @@ npm-debug.log
 yarn-error.log
 
 # Playwright
-test-results/
+tests-results/
+tests/
 playwright-report/
 playwright/.cache/
 playwright/package-manager/
