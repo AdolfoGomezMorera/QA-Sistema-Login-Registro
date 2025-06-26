@@ -1,0 +1,42 @@
+# Dependencias de Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+playwright/package-manager/
+*.png
+*.jpeg
+*.jpg
+
+# Configuraciones locales
+.env
+.env.local
+*.env
+
+# Archivos de IDE/Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript
+dist/
+*.js
+*.map
+!playwright.config.js
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
